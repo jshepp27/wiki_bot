@@ -1,0 +1,39 @@
+For other uses, see Coherence (disambiguation).
+Cohere
+Type Private
+Industry
+Natural language processing
+Artificial intelligence
+Founded 2019
+Founders Aidan Gomez, Ivan Zhang, Nick Frosst
+Headquarters
+Toronto, Ontario
+San Francisco, California
+Key people
+Aidan Gomez (CEO)
+Martin Kon (president & COO)
+Jaron Waldman (CPO)
+Number of employees 250[1]
+Website cohere.com
+Cohere is a Canadian multinational technology company focused on artificial intelligence for the enterprise, specializing in large language models.[2] Cohere was founded in 2019 by Aidan Gomez, Ivan Zhang, and Nick Frosst,[3] and is headquartered in Toronto and San Francisco, with offices in Palo Alto and London.[1][4]
+History[edit]
+In 2017, a team of researchers at Google Brain, which included Aidan Gomez, published a paper called "Attention is All You Need," which introduced the transformer machine learning architecture, setting state-of-the-art performance on a variety of natural language processing tasks.[5][6] In 2019, Gomez and Nick Frosst, another researcher at Google Brain, founded Cohere along with Ivan Zhang, with whom Gomez had done research at FOR.ai.[7][8] All of the co-founders attended University of Toronto.[9]
+Gomez has served as the company's CEO since its founding.[8] On December 13, 2022, it was announced that Cohere hired former YouTube CFO Martin Kon as their new president and chief operating officer.[10]
+In November 2021, Google Cloud announced that they would help power Cohere's platform using their robust infrastructure, and Cloud's TPUs would be used by Cohere for the development and deployment of their products.[11][12]
+In June 2022, Cohere launched Cohere For AI, a nonprofit research lab and community dedicated to contributing open-source, fundamental machine learning research. It is led by Sara Hooker, a former research scientist at Google Brain.[13]
+In December 2022, Cohere released a multilingual model for understanding text that would work with over 100 languages, to help users search for documents by meaning instead of with keywords. This type of process was not previously widely available in languages other than English.[10]
+On June 13, 2023, Oracle announced a partnership with Cohere to provide generative AI services to help organizations automate end-to-end business processes. As a result, Cohere's technology is integrated into Oracle's business applications, including Oracle Fusion Cloud, Oracle NetSuite, and Oracle industry-specific applications.[14] On July 18, 2023, McKinsey announced a collaboration with Cohere, to help organizations integrate generative AI into their operations.[15] In 2023, Cohere collaborated with software company LivePerson to offer customized large language models for businesses.[2]
+On September 12, 2023, it was announced that Cohere had become one of 15 tech companies to agree to voluntary White House measures on testing, reporting, and research on the risks of AI.[16] On September 27, 2023, it was announced that Cohere had also signed Canada's voluntary code of conduct for AI, to promote the responsible development and management of advanced generative AI systems.[17]
+Products[edit]
+Considered an alternative to OpenAI,[18] Cohere is focused on generative AI for the enterprise, building technology that businesses can use to deploy chatbots, search engines, copywriting, summarization, and other AI-driven products.[2][19] Cohere specializes in large language models: AI trained to digest text from an enterprises' internal data or publicly available sources like the internet to understand how to process and respond to prompts with increasing sophistication.[10]
+The Cohere platform is available through API as a managed service, through platforms such as Amazon SageMaker and Google's Vertex AI. It can be used for tasks such as writing copy, moderating content, classifying data, and extracting information. It is cloud agnostic and not tied to a particular cloud service.[8]
+Cohere's generative AI technology is embedded into several Oracle products, and its chat capabilities are embedded into Salesforce products.[18]
+Funding[edit]
+On September 7, 2021, Cohere announced that they had raised $40 million in Series A funding led by Index Ventures; Index Ventures partner Mike Volpi also joined Cohere's board.[11][12] The round also included Radical Ventures, Section 32, and AI-experts Geoffrey Hinton, Fei-Fei Li, Pieter Abbeel, and Raquel Urtasun.[3]
+In February 2022, Cohere announced they had raised $125 million in series B funding led by Tiger Global.[20] In June 2023, Cohere raised an additional $270 million in series C funding from investors including Inovia Capital, Oracle, Salesforce, and Nvidia, at a valuation of $2.2 billion.[2][21]
+See also[edit]
+Babelnet
+Deepl
+vidby
+OpenAI
+References[edit]
